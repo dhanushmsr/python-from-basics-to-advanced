@@ -1,0 +1,7 @@
+f=open(r'C:\Users\mdhan\Desktop\python_A\name.csv','a')
+f.write("\ndhanush")
+f.seek(0)
+print(f.tell())
+f.write(' Is student')
+print(f.tell())
+f.writelines("\nAswin")
