@@ -1,4 +1,4 @@
-with open(r'C:\Users\mdhan\Desktop\python_A\name.csv','w') as f:
+with open('name.txt','w') as f:
     print(f.tell())
     # f.read()
     f.write("python")

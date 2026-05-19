@@ -2,6 +2,7 @@ l=[1,2,3,4,5,6,7]
 # it=l.__iter__() 
 it=iter(l)
 print(it)
+print(dir(it))
 # print(it.__next__())
 # print(it.__next__())
 # print(it.__next__())
