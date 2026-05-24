@@ -14,14 +14,14 @@ class stack():
     def display(self):
         print(self.stack)
     
-obj=stack()
-obj.push(10)
-obj.push(15)
-obj.push(1)
-obj.push(30)
-obj.pop()  #Work based on the Principle of First in Last out(FILO | LIFO )
-print(obj.peak())
-obj.display()
+# obj=stack()
+# obj.push(10)
+# obj.push(15)
+# obj.push(1)
+# obj.push(30)
+# obj.pop()  #Work based on the Principle of First in Last out(FILO | LIFO )
+# print(obj.peak())
+# obj.display()
     
 
 
