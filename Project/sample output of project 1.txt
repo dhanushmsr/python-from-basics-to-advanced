@@ -1,0 +1,65 @@
+Let's set your alarm...
+Enter hour (0-23): 6
+Enter minute (0-59): 30
+⏳ Alarm set... Waiting...
+
+Do you want to set your bedtime? (yes/no): yes
+
+Let's set your bedtime
+Enter bedtime hour (0-23): 22
+Enter bedtime minute (0-59): 00
+
+🌙 Bedtime reminder is set!
+
+
+-------------------------------
+Current Time: 06:29
+Waiting for alarm...
+-------------------------------
+
+
+🔔 Wake Up!
+
+Opening motivational video...
+
+💬 Motivation:
+"Success starts with discipline."
+
+📱 Sending WhatsApp message...
+
+Message sent successfully!
+
+✨ Get refreshed!
+
+Can I play a motivational video? (yes/no): yes
+
+🎵 Opening YouTube motivation playlist...
+
+
+====================================
+        HAVE A GREAT DAY 😊
+====================================
+
+
+
+-------------------------------
+Current Time: 21:59
+Waiting for bedtime...
+-------------------------------
+
+
+🌙 Bed Time! Put your phone down and sleep
+
+💬 Bedtime Message:
+"Sleep is the best meditation."
+
+📱 Sending WhatsApp bedtime reminder...
+
+Message sent successfully!
+
+🎵 Playing relaxing night melody...
+
+
+====================================
+       GOOD NIGHT 😴
+====================================
