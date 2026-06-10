@@ -1,6 +1,10 @@
 # python-from-basics-to-advanced
 My Python Journey  
 (A collection of Python practice programs covering basics to advanced concepts, including OOP, file handling, decorators, generators, DSA)
+
+I hope you know how to run the program.
+Check for the dir. in your command prompt folder name is same as the module present 
+and the run with command python module_name.py
 # Python Practice Repository 🐍
 
 This repository contains my Python learning journey, starting from basic concepts to advanced topics through hands-on coding practice.
